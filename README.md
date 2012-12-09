@@ -1,4 +1,4 @@
 terrafirma
 ==========
 
-A 2d Terraria-like game/
+A 2d Terraria-like game
