@@ -26,4 +26,4 @@ function love.keypressed(key)
         player.grid_x = player.grid_x - 32
     elseif key == "right" then
         player.grid_x = player.grid_x + 32
-    
+end
