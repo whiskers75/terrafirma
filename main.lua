@@ -1,6 +1,3 @@
-local love = require love
-
-
 function love.load()
     player = {
         grid_x = 256,
